@@ -1,5 +1,6 @@
 const add = require('./utils.js')
 const fs = require('fs')
+const getNotes = require('./notes')
 
 fs.writeFileSync('notes.txt', 'This file was created by node.js')
 fs.appendFileSync('notes.txt', '\nI live in Brazil')
