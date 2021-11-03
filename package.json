@@ -22,6 +22,6 @@
   "homepage": "https://github.com/nunes-will/notes-app#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
